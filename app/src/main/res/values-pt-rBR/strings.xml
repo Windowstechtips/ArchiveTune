@@ -914,4 +914,5 @@
     <string name="save_current_account">Salvar conta atual</string>
     <string name="no_saved_accounts">Nenhuma conta foi salva ainda</string>
     <string name="remove_account">Remover conta</string>
+    <string name="player_background_style_v8_v9_desc">Não disponível com os estilos de player V8 e V9</string>
 </resources>
