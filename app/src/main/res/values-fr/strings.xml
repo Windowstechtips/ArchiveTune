@@ -37,8 +37,8 @@
     <string name="most_played_albums">Albums les plus écoutés</string>
     <!-- Search -->
     <string name="search">Rechercher</string>
-    <string name="search_yt_music">Rechercher sur YouTube Music…</string>
-    <string name="search_library">Rechercher dans la bibliothèque…</string>
+    <string name="search_yt_music">Rechercher sur YouTube Music</string>
+    <string name="search_library">Rechercher dans la bibliothèque</string>
     <string name="filter_library">Bibliothèque</string>
     <string name="filter_liked">Aimé</string>
     <string name="filter_downloaded">Téléchargé</string>
@@ -54,10 +54,10 @@
     <string name="filter_bookmarked">En favoris</string>
     <string name="no_results_found">Aucun résultat trouvé</string>
     <!-- Library -->
-    <string name="library_song_empty">Les titres de la bibliothèque apparaîtront ici.</string>
-    <string name="library_artist_empty">Les artistes de la bibliothèque apparaîtront ici.</string>
-    <string name="library_album_empty">Les albums de la bibliothèque apparaîtront ici.</string>
-    <string name="library_playlist_empty">Vos playlists apparaîtront ici.</string>
+    <string name="library_song_empty">Les titres de la bibliothèque s\'afficheront ici</string>
+    <string name="library_artist_empty">Les artistes de la bibliothèque s\'afficheront ici</string>
+    <string name="library_album_empty">Les albums de la bibliothèque s\'afficheront ici</string>
+    <string name="library_playlist_empty">Vos playlists s\'afficheront ici</string>
     <!-- Artist screen -->
     <string name="from_your_library">De votre bibliothèque</string>
     <!-- Album screen -->
@@ -65,7 +65,7 @@
     <!-- Playlist -->
     <string name="liked_songs">Titres aimés</string>
     <string name="downloaded_songs">Titres téléchargés</string>
-    <string name="playlist_is_empty">La playlist est vide.</string>
+    <string name="playlist_is_empty">La playlist est vide</string>
     <string name="remove_download_playlist_confirm">Voulez-vous vraiment supprimer tous les titres de la playlist « %s » du stockage des titres téléchargés ?</string>
     <string name="delete_playlist_confirm">Voulez-vous vraiment supprimer la playlist « %s » ?</string>
     <!-- Button -->
@@ -98,7 +98,7 @@
     <string name="refetch">Récupérer</string>
     <string name="share">Partager</string>
     <string name="delete">Supprimer</string>
-    <string name="remove_from_history">Remove from history</string>
+    <string name="remove_from_history">Supprimer de l\'historique</string>
     <string name="remove_from_playlist">Supprimer de l\'historique</string>
     <string name="remove_from_queue">Retirer de la file d\'attente</string>
     <string name="search_online">Recherche en ligne</string>
@@ -263,9 +263,9 @@
     <string name="palette_rose_quartz">Quartz rose</string>
     <string name="palette_magenta_pop">Magenta</string>
     <string name="palette_hot_pink">Rose vif</string>
-    <string name="palette_blush">Blush</string>
+    <string name="palette_blush">Rouge</string>
     <string name="palette_coral">Corail</string>
-    <string name="palette_bubblegum">Bubblegum</string>
+    <string name="palette_bubblegum">Chewing-gum</string>
     <!-- Reds -->
     <string name="palette_crimson_red">Cramoisi</string>
     <string name="palette_youtube_red">YouTube</string>
@@ -393,7 +393,7 @@
     <string name="audio_quality_high">Haute</string>
     <string name="audio_quality_low">Basse</string>
     <string name="persistent_queue">File d\'attente persistante</string>
-    <string name="persistent_queue_desc">Restaurez votre dernière file d\'attente au démarrage de l\'application.</string>
+    <string name="persistent_queue_desc">Restaurez votre dernière file d\'attente au démarrage de l\'application</string>
     <string name="auto_load_more">Charger automatiquement plus de titres</string>
     <string name="auto_load_more_desc">Ajout automatique de titres supplémentaires lorsque la fin de la file d\'attente est atteinte. Désactivé lorsque le mode répétition est activé.</string>
     <string name="skip_silence">Passer le silence</string>
@@ -494,8 +494,8 @@
     <string name="select_dialog">Sélectionner</string>
     <string name="support_github">Évaluez ArchiveTune !</string>
     <!-- Update dialog -->
-    <string name="new_update_available">Nouvelle mise à jour disponible !</string>
-    <string name="release_notes_unavailable">Les notes de version ne sont pas disponibles.</string>
+    <string name="new_update_available">Une nouvelle mise à jour est disponible</string>
+    <string name="release_notes_unavailable">Les notes de version ne sont pas disponibles</string>
     <string name="update_text">Mise à jour</string>
     <!-- Translate UI strings -->
     <string name="translate">Traduire</string>
@@ -512,7 +512,7 @@
     <string name="discord_show_when_paused_desc">Si cette option est activée, Rich Presence restera visible pendant la pause, avec une icône de pause. Si elle est désactivée, RPC disparaîtra pendant la pause.</string>
     <string name="discord_paused">En pause</string>
     <string name="show_small_image">Afficher une petite image</string>
-    <string name="description_show_small_image">Lorsqu\'elle est activée, une petite image circulaire s\'affiche dans l\'aperçu Rich Presence et est envoyée à Discord si disponible.</string>
+    <string name="description_show_small_image">Lorsqu\'elle est activée, une petite image circulaire s\'affiche dans l\'aperçu Rich Presence et est envoyée à Discord si disponible</string>
     <string name="logout_confirm_title">Confirmer la déconnexion</string>
     <string name="logout_confirm_message">Êtes-vous sûr de vouloir vous déconnecter de Discord ?</string>
     <string name="logout_confirm_yes">Déconnexion</string>
@@ -553,7 +553,7 @@
     <string name="media_id_label">ID média</string>
     <string name="about">À propos</string>
     <string name="app_version">Version de l\'application</string>
-    <string name="new_version_available">Nouvelle version disponible !</string>
+    <string name="new_version_available">Nouvelle version disponible</string>
     <string name="translation_models">Modèles de traduction</string>
     <string name="clear_translation_models">Effacer les modèles de traduction</string>
     <string name="queue_continue_playing">Continuer la lecture</string>
@@ -635,7 +635,7 @@
     <string name="filter_discord_only">Discord</string>
     <string name="filter_all_logs">Tout</string>
     <string name="clear">Effacer</string>
-    <string name="logs_empty_message">Les journaux apparaîtront ici lorsqu\'ils seront disponibles.</string>
+    <string name="logs_empty_message">Les journaux s\'afficheront ici dès qu\'ils seront disponibles</string>
     <string name="real_time_playback_stats">Statistiques de lecture en temps réel</string>
     <string name="copied_to_clipboard">Journal copié dans le presse-papiers</string>
     <string name="playback_state_idle">INACTIF</string>
@@ -795,13 +795,13 @@
     <string name="playback_login_refresh_required">Actualiser la connexion à YouTube Music</string>
     <string name="playback_requires_youtube_music_login_refresh">Actualisez votre connexion YouTube Music, puis retournez sur ArchiveTune.</string>
     <string name="wakelock">Maintenir le processeur actif pendant la lecture</string>
-    <string name="wakelock_desc">Empêche le système d\'interrompre la musique en maintenant un verrou de réveil du processeur.</string>
+    <string name="wakelock_desc">Empêche le système d\'interrompre la musique en maintenant un verrou de réveil du processeur</string>
     <string name="external_downloader">Téléchargeur Externe</string>
     <string name="external_downloader_desc">Télécharger des chansons via une application externe par nom de package</string>
     <string name="external_downloader_package">Pack d\'applications de téléchargement</string>
     <string name="external_downloader_package_desc">Nom du pack de l\'application de téléchargement externe (par exemple : com.deniscerri.ytdl)</string>
     <string name="open_with_downloader">Ouvrir avec Downloader</string>
-    <string name="external_downloader_not_installed">L\'application de téléchargement externe n\'est pas installée.</string>
+    <string name="external_downloader_not_installed">L\'application de téléchargement externe n\'est pas installée</string>
     <string name="external_downloader_not_configured">Aucun téléchargeur externe n\'est configuré. Configurez-en un dans Paramètres → Lecteur.</string>
     <string name="open_youtube_music">Ouvrir YouTube Music</string>
     <string name="archivetune_canvas_v7_desc">Non disponible avec le style de lecteur immersif</string>
@@ -908,4 +908,59 @@
     <string name="low_data_mode_description">Réduit la consommation de données mobiles en utilisant des flux de faible qualité et en désactivant le cache de lecture, le canvas et le préchargement des paroles en arrière-plan sur les réseaux à volume limité</string>
     <string name="queue">File d\'attente</string>
     <string name="ip_rotation_loading">Chargement de la liste des proxys…</string>
+    <string name="player_background_style_v8_v9_desc">Non disponible avec les styles de lecteur V8 et V9</string>
+    <string name="ip_rotation_refreshing">Actualisation de l\'adresse IP…</string>
+    <string name="ip_rotation_refresh">Actualiser l\'adresse IP</string>
+    <string name="paxsenix_status_operational">Opérationnel</string>
+    <string name="paxsenix_status_degraded">Dégradé</string>
+    <string name="paxsenix_stats_failed">Échec du chargement des statistiques de l\'API</string>
+    <string name="visit_website">Visiter le site web</string>
+    <string name="recent_requests">Demandes récentes</string>
+    <string name="discord_login_description">Connectez votre compte Discord via OAuth afin qu\'ArchiveTune puisse publier des informations de présence enrichies via le SDK social officiel de Discord.</string>
+    <string name="discord_open_authorization">Autorisation Discord</string>
+    <string name="discord_waiting_for_authorization">En attente de l\'autorisation Discord...</string>
+    <string name="discord_authorization_success">Compte Discord connecté</string>
+    <string name="discord_authorization_failed">Échec de l\'autorisation Discord</string>
+    <string name="discord_account_ready">ArchiveTune est prêt à publier Rich Presence pour votre séance d\'écoute.</string>
+    <string name="discord_connection_settings">Connexion</string>
+    <string name="discord_activity_content">Contenu de l\'activité</string>
+    <string name="discord_custom_interval_value">Valeur</string>
+    <string name="discord_custom_interval_unit">Unité</string>
+    <string name="discord_refresh_success">Mise à jour de la présence sur Discord</string>
+    <string name="discord_refresh_failed">Échec de l\'actualisation de la présence sur Discord</string>
+    <string name="discord_url_source_song">Lien vers le titre</string>
+    <string name="discord_url_source_artist">URL de l\'artiste</string>
+    <string name="discord_url_source_album">URL de l\'album</string>
+    <string name="discord_url_source_custom">URL personnalisée</string>
+    <string name="album_name">Nom de l\'album</string>
+    <string name="app_icon">Icône de l\'application</string>
+    <string name="discord_presence_online">En ligne</string>
+    <string name="discord_presence_do_not_disturb">Ne pas déranger</string>
+    <string name="discord_presence_idle">Inactif</string>
+    <string name="discord_presence_streaming">Diffusion</string>
+    <string name="discord_interval_unit_seconds">Secondes</string>
+    <string name="discord_interval_unit_minutes">Minutes</string>
+    <string name="discord_interval_unit_hours">Heures</string>
+    <string name="discord_platform_desktop">Bureau</string>
+    <string name="discord_platform_xbox">Xbox</string>
+    <string name="discord_platform_samsung">Samsung</string>
+    <string name="discord_platform_ios">iOS</string>
+    <string name="discord_platform_android">Android</string>
+    <string name="discord_platform_embedded">Intégré</string>
+    <string name="discord_platform_ps4">PS4</string>
+    <string name="discord_platform_ps5">PS5</string>
+    <string name="discord_activity_type_playing_label">Lecture</string>
+    <string name="discord_activity_type_streaming_label">Diffusion</string>
+    <string name="discord_activity_type_listening_label">Écouter</string>
+    <string name="discord_activity_type_watching_label">Regarder</string>
+    <string name="discord_activity_type_competing_label">En compétition</string>
+    <string name="discord_image_album_artwork">Pochette d\'album</string>
+    <string name="discord_image_artist_artwork">Œuvre d\'artiste</string>
+    <string name="saved_accounts">Comptes enregistrés</string>
+    <string name="save_current_account">Enregistrer le compte courant</string>
+    <string name="no_saved_accounts">Aucun compte enregistré pour l\'instant</string>
+    <string name="remove_account">Supprimer le compte</string>
+    <string name="paxsenix_status_down">Indisponible</string>
+    <string name="display">Afficher</string>
+    <string name="romanization">Romanisation</string>
 </resources>
