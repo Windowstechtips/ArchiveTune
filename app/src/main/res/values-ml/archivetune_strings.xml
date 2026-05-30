@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="explore">എക്സ്പ്ലോർ</string>
+    <string name="music_recognition_tap_to_listen">കേൾക്കാൻ വേണ്ടി ക്ലിക്ക് ചെയ്യുക</string>
+    <string name="music_recognition_listening">കേട്ടുകൊണ്ടിരിക്കുന്നത്…</string>
+    <string name="music_recognition_processing">പ്രോസസ്സ് ചെയ്യുന്നു…</string>
+    <string name="music_recognition_listen_again">വീണ്ടും കേൾക്കുക</string>
+    <string name="music_recognition_no_match">മാച്ച് കണ്ടെത്താൻ സാധിച്ചില്ല</string>
+    <string name="music_recognition_signature_failed">സിഗ്നേച്ചർ നിർമിക്കാൻ സാധിച്ചില്ല</string>
+    <string name="music_recognition_recognition_failed">തിരിച്ചറിയൽ ഫെയിൽ ആയി</string>
+    <string name="music_recognition_open_shazam">ഷസാം തുറക്കുക</string>
+    <string name="music_recognition_lyrics_preview">വരികളുടെ പ്രിവ്യൂ</string>
+    <string name="music_recognition_permission_title">മൈക്ക് പെർമിഷൻ</string>
+    <string name="music_recognition_permission_desc">കേൾക്കുന്ന പാട്ട് തിരിച്ചറിയാൻ മൈക്ക് പെർമിഷൻ നൽകുക.</string>
+    <string name="music_recognition_permission_action">അനുവദിക്കുക</string>
 </resources>
