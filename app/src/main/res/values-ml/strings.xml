@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="home">ഹോം</string>
+    <string name="songs">പാട്ടുകൾ</string>
+    <string name="artists">ആർട്ടിസ്റ്റുകൾ</string>
+    <string name="albums">ആൽബങ്ങൾ</string>
+    <string name="playlists">പ്ലേ-ലിസ്റ്റുകൾ</string>
+    <string name="history">ഹിസ്റ്ററി</string>
+    <string name="stats">കണക്കുകൾ</string>
+    <string name="mood_and_genres">മൂഡ് &amp; ജേണേഴ്സ്</string>
+    <string name="account">അക്കൗണ്ട്</string>
+    <string name="quick_picks">തിരഞ്ഞെടുത്തവ</string>
 </resources>
