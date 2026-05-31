@@ -914,4 +914,5 @@
     <string name="discord_activity_type_competing_label">Compitiendo</string>
     <string name="discord_image_album_artwork">Portada del álbum</string>
     <string name="discord_image_artist_artwork">Obra del artista</string>
+    <string name="player_background_style_v8_v9_desc">No disponible con los estilos del reproductor V8 y V9</string>
 </resources>
