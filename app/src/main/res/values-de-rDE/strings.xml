@@ -8,7 +8,7 @@
     <string name="playlists">Wiedergabelisten</string>
     <!-- Top bar -->
     <plurals name="n_selected">
-        <item quantity="one"/>
+        <item quantity="one">%d ausgewählt</item>
         <item quantity="other">%d ausgewählt</item>
     </plurals>
     <!-- Home -->
@@ -653,4 +653,42 @@
     <string name="open_with_downloader">Mit Downloader öffnen</string>
     <string name="external_downloader_not_installed">Externe Downloader-App ist nicht installiert</string>
     <string name="removed_n_songs_from_queue">%d Lieder aus der Warteschlange entfernt</string>
+    <string name="aod_mode">AOD-Modus</string>
+    <string name="aod_mode_exit">AOD verlassen</string>
+    <string name="sort_by_most_played">Meistgespielt</string>
+    <string name="no_matching_playlists">Keine übereinstimmende Playlist</string>
+    <string name="error_malformed_stream">Quellenfehler</string>
+    <string name="archivetune_canvas_desc">Albumcover animieren während des Abpielens (Unterstützt von BetterLyrics)</string>
+    <string name="archivetune_canvas_v7_desc">Nicht verfügbar mit dem Immersiven Player-Stil</string>
+    <string name="player_background_style_v8_v9_desc">Nicht verfügbar mit V8 und V9 Player-Stil</string>
+    <string name="disable_animations">Animationen deaktivieren</string>
+    <string name="disable_animations_desc">Die meisten Appanimationen deaktivieren. Für Low-end-Geräte empfohlen</string>
+    <string name="blur_intensity_value">%1$d dp</string>
+    <string name="lyrics_mode">Liedtextmodus</string>
+    <string name="lyrics_animation_style_v2_only">Nur verfügbar in V2 Liedtextmodus</string>
+    <string name="internet_warning_title">Sicherheits- und Nutzungswarnung</string>
+    <string name="ip_rotation">IP-Rotation</string>
+    <string name="ip_rotation_desc">Wechselt die aktuelle IP-Adresse, wenn Wiedergabe- oder Inhaltsprobleme auftreten.</string>
+    <string name="ip_rotation_refresh">IP erneuern</string>
+    <string name="stream_bypass_proxy">Proxy für Streams umgehen</string>
+    <string name="stream_bypass_proxy_desc">Verwendt direkte IP-Adresse für die Stream-Wiedergabe, um eine IP-Diskrepanz zu vermeiden</string>
+    <string name="audio_offload">Audio-Auslagerung</string>
+    <string name="tap_to_activate_equalizer">Tippen, um den Equalizer zu aktivieren</string>
+    <string name="eq_open_system_equalizer">Öffne System-Equalizer</string>
+    <string name="eq_presets">Voreinstellungen</string>
+    <string name="eq_system">System</string>
+    <string name="eq_flat">Flach</string>
+    <string name="eq_profiles">Profile</string>
+    <string name="eq_manage">Verwalten</string>
+    <string name="eq_system_preset">Systemvoreinstellung</string>
+    <string name="eq_import">Importieren</string>
+    <string name="enable_update_notification">Aktiviere Upadatebenachrichtigung</string>
+    <string name="enable_update_notification_desc">Werde benachrichtigt, wenn eine neue Stabile Version veröffentlicht wird</string>
+    <string name="update_channel">Updatekanal</string>
+    <string name="playlist_suggestion_source_title">Playlisttitel</string>
+    <string name="playlist_suggestion_source_content">Playlistinhalt</string>
+    <string name="playlist_suggestion_source_both">Playlistinhalt und -titel</string>
+    <string name="together_display_name">Anzeigename</string>
+    <string name="together_display_name_placeholder">Dein Name</string>
+    <string name="together_port">Sitzungsport</string>
 </resources>
