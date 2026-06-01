@@ -2,7 +2,7 @@
 <!-- Upstream InnerTune strings --><!-- Do not add new features here --><!-- Try to re-use strings here, but be careful on its usage e.g. verb vs noun --><!-- "InnerTune" is replaced with "ArchiveTune" --><!-- Translators: Do not modify this file for translations, use InnerTune's Weblate instead. --><resources>
     <!-- Bottom navigation -->
     <string name="home">Startseite</string>
-    <string name="songs">Lieder</string>
+    <string name="songs">Songs</string>
     <string name="artists">Künstler</string>
     <string name="albums">Alben</string>
     <string name="playlists">Wiedergabelisten</string>
@@ -17,7 +17,7 @@
     <string name="mood_and_genres">Stimmung und Genres</string>
     <string name="account">Konto</string>
     <string name="quick_picks">Schnelle Auswahl</string>
-    <string name="quick_picks_empty">Hören Sie sich Lieder an, um Ihre schnelle Auswahl zu treffen</string>
+    <string name="quick_picks_empty">Hören Sie sich Songs an, um Ihre schnelle Auswahl zu treffen</string>
     <string name="forgotten_favorites">Vergessene Favoriten</string>
     <string name="keep_listening">Hören Sie weiter zu</string>
     <string name="your_youtube_playlists">Deine YouTube-Playlists</string>
@@ -31,7 +31,7 @@
     <string name="this_week">Diese Woche</string>
     <string name="last_week">Letzte Woche</string>
     <!-- Stats -->
-    <string name="most_played_songs">Die meisten gespielten Lieder</string>
+    <string name="most_played_songs">Die meisten gespielten Songs</string>
     <string name="most_played_artists">Die meisten gespielten Künstler</string>
     <string name="most_played_albums">Die meisten gespielten Alben</string>
     <!-- Search -->
@@ -43,7 +43,7 @@
     <string name="filter_downloaded">Heruntergeladen</string>
     <string name="filter_downloaded_full">Heruntergeladen (Vollständig)</string>
     <string name="filter_all">Alle</string>
-    <string name="filter_songs">Lieder</string>
+    <string name="filter_songs">Songs</string>
     <string name="filter_videos">Videos</string>
     <string name="filter_albums">Alben</string>
     <string name="filter_artists">Künstler</string>
@@ -62,10 +62,10 @@
     <!-- Album screen -->
     <string name="other_versions">Andere Versionen</string>
     <!-- Playlist -->
-    <string name="liked_songs">Gefallene Lieder</string>
-    <string name="downloaded_songs">Heruntergeladene Lieder</string>
+    <string name="liked_songs">Gefallene Songs</string>
+    <string name="downloaded_songs">Heruntergeladene Songs</string>
     <string name="playlist_is_empty">Die Playlist ist leer</string>
-    <string name="remove_download_playlist_confirm">Möchten Sie wirklich alle \"%s\" Playlist-Lieder aus dem Speicher für heruntergeladene Songs entfernen?</string>
+    <string name="remove_download_playlist_confirm">Möchten Sie wirklich alle \"%s\" Playlist-Songs aus dem Speicher für heruntergeladene Songs entfernen?</string>
     <string name="delete_playlist_confirm">Möchten Sie die Playlist \"%s\" wirklich löschen?</string>
     <!-- Button -->
     <string name="retry">Wiederholen</string>
@@ -126,9 +126,9 @@
     <string name="copied">In die Zwischenablage kopiert</string>
     <string name="edit_lyrics">Songtext bearbeiten</string>
     <string name="search_lyrics">Songtexte suchen</string>
-    <string name="edit_song">Lied bearbeiten</string>
+    <string name="edit_song">Song bearbeiten</string>
     <string name="song_title">Songtitel</string>
-    <string name="song_artists">Liedkünstler</string>
+    <string name="song_artists">Songkünstler</string>
     <string name="error_song_title_empty">Der Songtitel darf nicht leer sein.</string>
     <string name="error_song_artist_empty">Song-Künstler darf nicht leer sein.</string>
     <string name="save">Speichern</string>
@@ -143,12 +143,12 @@
     <string name="duplicates">Duplikate</string>
     <string name="skip_duplicates">Überspringen Sie Duplikate</string>
     <string name="add_anyway">Trotzdem hinzufügen</string>
-    <string name="duplicates_description_single">Das Lied ist bereits in Ihrer Playlist</string>
+    <string name="duplicates_description_single">Das Song ist bereits in Ihrer Playlist</string>
     <string name="duplicates_description_multiple">%d Songs sind bereits in Ihrer Playlist</string>
     <!-- Noun -->
     <plurals name="n_song">
-        <item quantity="one">%d Lied</item>
-        <item quantity="other">%d Lieder</item>
+        <item quantity="one">%d Song</item>
+        <item quantity="other">%d Songs</item>
     </plurals>
     <plurals name="n_artist">
         <item quantity="one">%d Künstler</item>
@@ -182,7 +182,7 @@
     <!-- Player -->
     <string name="lyrics_not_found">Songtext nicht gefunden</string>
     <string name="sleep_timer">Sleep-Timer</string>
-    <string name="end_of_song">Ende des Liedes</string>
+    <string name="end_of_song">Ende des Songs</string>
     <plurals name="minute">
         <item quantity="one">1 minute</item>
         <item quantity="other">%d Minuten</item>
@@ -199,11 +199,11 @@
     <string name="action_shuffle_on">Mischen Sie weiter</string>
     <string name="action_shuffle_off">Schlurfen Sie ab</string>
     <string name="repeat_mode_off">Wiederholungsmodus aus</string>
-    <string name="repeat_mode_one">Aktuelles Lied wiederholen</string>
+    <string name="repeat_mode_one">Aktuellen Song wiederholen</string>
     <string name="repeat_mode_all">Warteschlange wiederholen</string>
     <!-- Queue Title -->
-    <string name="queue_all_songs">Alle Lieder</string>
-    <string name="queue_searched_songs">Gesuchte Lieder</string>
+    <string name="queue_all_songs">Alle Songs</string>
+    <string name="queue_searched_songs">Gesuchte Songs</string>
     <!-- Notification name -->
     <string name="music_player">Musik-Player</string>
     <!-- Settings -->
@@ -342,7 +342,7 @@
     <string name="customize_navigation_tabs">Passen Sie Navigationsregisterkarten an</string>
     <string name="player">Spieler</string>
     <string name="player_text_alignment">Ausrichtung des Spielertextes</string>
-    <string name="lyrics_text_position">Position des Liedtextes</string>
+    <string name="lyrics_text_position">Position des Songtextes</string>
     <string name="sided">Einseitig</string>
     <string name="left">Links</string>
     <string name="center">Center</string>
@@ -388,7 +388,7 @@
     <string name="auto_load_more_desc">Wenn möglich, fügen Sie automatisch weitere Songs hinzu, wenn das Ende der Warteschlange erreicht ist</string>
     <string name="skip_silence">Überspringen Sie die Stille</string>
     <string name="audio_normalization">Audionormalisierung</string>
-    <string name="auto_skip_next_on_error">Automatisch zum nächsten Lied springen, wenn ein Fehler auftritt</string>
+    <string name="auto_skip_next_on_error">Automatisch zum nächsten Song springen, wenn ein Fehler auftritt</string>
     <string name="auto_skip_next_on_error_desc">Sorgt für ein kontinuierliches Wiedergabeerlebnis</string>
     <string name="stop_music_on_task_clear">Musik stoppen wenn die App aus dem Hintergrund gelöscht wird</string>
     <string name="artist_separators">Künstler-Trennzeichen</string>
@@ -559,16 +559,16 @@
     <string name="together_ban">Ban</string>
     <string name="together_kick_confirm">%1$s herauswerfen?</string>
     <string name="together_ban_confirm">Ban %1$s?</string>
-    <string name="together_requesting_song_change">Frage Host das Lied zu wechseln…</string>
-    <string name="together_song_change_failed">Liedänderung nicht angewendet. Bitte erneut versuchen.</string>
+    <string name="together_requesting_song_change">Frage Host den Song zu wechseln…</string>
+    <string name="together_song_change_failed">Songänderung nicht angewendet. Bitte erneut versuchen.</string>
     <string name="tempo">Tempo</string>
     <string name="pitch">Tonhöhe</string>
     <string name="pitch_mode_semitones_short">st</string>
     <string name="pitch_mode_multiplier_short">x</string>
     <string name="added_to_playlist">Zu %s hinzugefügt</string>
-    <string name="added_n_songs_to_playlist">%1$d Lieder zu %2$s hinzugefügt</string>
+    <string name="added_n_songs_to_playlist">%1$d Songs zu %2$s hinzugefügt</string>
     <string name="added_to_n_playlists">Zu %d playlist hinzugefügt</string>
-    <string name="added_n_songs_to_n_playlists">%1$d Lieder zu %2$d Playlists hinzugefügt</string>
+    <string name="added_n_songs_to_n_playlists">%1$d Songs zu %2$d Playlists hinzugefügt</string>
     <string name="queue_continue_playing">Wiedergabe fortsetzen</string>
     <string name="queue_autoplaying_similar">Ähnliche Musik automatisch abspielen</string>
     <string name="random_theme_on_startup">Zufälliges Theme beim start</string>
@@ -590,13 +590,13 @@
     <string name="search_try_different">Versuch einen anderen Suchbegriff</string>
     <string name="build_your_mix_title">Erstelle deinen Mix</string>
     <string name="build_your_mix_description">Auf welcher Basis soll der Mix für dich erstellt werden?</string>
-    <string name="build_your_mix_song_count">Wie viele Lieder möchtest du insgesamt erhalten?</string>
+    <string name="build_your_mix_song_count">Wie viele Songs möchtest du insgesamt erhalten?</string>
     <string name="build_your_mix_listening_history">Hörverlauf</string>
     <string name="build_your_mix_create">Mix erstellen</string>
     <string name="build_your_mix_manual_basis">Manuelle Basis</string>
-    <string name="build_your_mix_manual_placeholder">Erfasse einen Künstler oder Liedtitel, wie Alan Walker</string>
+    <string name="build_your_mix_manual_placeholder">Erfasse einen Künstler oder Songtitel, wie Alan Walker</string>
     <string name="build_your_mix_loading_quote">Erstelle deinen Mix, dies wird etwas Zeit benötigen…</string>
-    <string name="build_your_mix_manual_required">Erfasse zunächst einen Künstler oder Liedtitel.</string>
+    <string name="build_your_mix_manual_required">Erfasse zunächst einen Künstler oder Songtitel.</string>
     <string name="build_your_mix_failed">Erstellung deines Mix fehlgeschlagen</string>
     <string name="widget_pause">Pause</string>
     <string name="widget_previous">Vorheriger</string>
@@ -638,7 +638,7 @@
     <string name="enable_paxsenix_lyrics">Aktiviere Paxsenix Songtexte</string>
     <string name="low_data_mode_title">Datensparmodus</string>
     <string name="permanent_shuffle">Permanenter Shuffle-Modus</string>
-    <string name="permanent_shuffle_desc">Lässt Schuffle aktiviert, wenn du einen neues Lied startest</string>
+    <string name="permanent_shuffle_desc">Lässt Schuffle aktiviert, wenn du einen neuen Song startest</string>
     <string name="pause_on_device_mute">Pausieren, wenn die Gerätelautstärke 0 ist</string>
     <string name="audio_offload_desc">Lässt unterstützte Geräte Audio mithilfe einer stromsparenden Hardware-Decodierung wiedergeben. Einige Funktionen zur Audioverarbeitung sind deaktiviert.</string>
     <string name="pause_on_device_mute_desc">Pausiere Musik automatisch bei Stummschaltung und setze fort, wenn diese aufgehoben wird</string>
@@ -647,12 +647,12 @@
     <string name="auto_start_on_bluetooth">Autostart bei Bluetooth-Verbindung</string>
     <string name="auto_start_on_bluetooth_desc">Wiedergabe automatisch fortsetzen, wenn ein Bluetooth-Audiogerät verbunden wird</string>
     <string name="external_downloader">Externer Downloader</string>
-    <string name="external_downloader_desc">Herunterladen von Liedern durch eine externe App mit Paketname</string>
+    <string name="external_downloader_desc">Herunterladen von Songsn durch eine externe App mit Paketname</string>
     <string name="external_downloader_package">Downloader App-Paket</string>
     <string name="external_downloader_package_desc">Paketname der externen Downloader-App (z.B. com.deniscerri.ytdl)</string>
     <string name="open_with_downloader">Mit Downloader öffnen</string>
     <string name="external_downloader_not_installed">Externe Downloader-App ist nicht installiert</string>
-    <string name="removed_n_songs_from_queue">%d Lieder aus der Warteschlange entfernt</string>
+    <string name="removed_n_songs_from_queue">%d Songs aus der Warteschlange entfernt</string>
     <string name="aod_mode">AOD-Modus</string>
     <string name="aod_mode_exit">AOD verlassen</string>
     <string name="sort_by_most_played">Meistgespielt</string>
@@ -664,8 +664,8 @@
     <string name="disable_animations">Animationen deaktivieren</string>
     <string name="disable_animations_desc">Die meisten Appanimationen deaktivieren. Für Low-end-Geräte empfohlen</string>
     <string name="blur_intensity_value">%1$d dp</string>
-    <string name="lyrics_mode">Liedtextmodus</string>
-    <string name="lyrics_animation_style_v2_only">Nur verfügbar in V2 Liedtextmodus</string>
+    <string name="lyrics_mode">Songtextmodus</string>
+    <string name="lyrics_animation_style_v2_only">Nur verfügbar in V2 Songtextmodus</string>
     <string name="internet_warning_title">Sicherheits- und Nutzungswarnung</string>
     <string name="ip_rotation">IP-Rotation</string>
     <string name="ip_rotation_desc">Wechselt die aktuelle IP-Adresse, wenn Wiedergabe- oder Inhaltsprobleme auftreten.</string>
@@ -707,7 +707,7 @@
     <string name="sort_order_descending">Absteigend</string>
     <string name="archivetune_canvas">ArchiveTune Canvas</string>
     <string name="lyrics_mode_enhanced">Erweitert</string>
-    <string name="low_data_mode_description">Reduziert den mobilen Datenverbrauch, indem in Netzwerken mit Datenvolumenbegrenzung Streams in niedriger Qualität verwendet und die Wiedergabecache-Funktion, Canvas sowie das Vorladen von Liedtexten im Hintergrund deaktiviert werden</string>
+    <string name="low_data_mode_description">Reduziert den mobilen Datenverbrauch, indem in Netzwerken mit Datenvolumenbegrenzung Streams in niedriger Qualität verwendet und die Wiedergabecache-Funktion, Canvas sowie das Vorladen von Songtexten im Hintergrund deaktiviert werden</string>
     <string name="eq_manual">Manuell</string>
     <string name="eq_profile_hint">Wende ein Profil an oder speichere deine aktuellen Einstellungen</string>
     <string name="eq_save">Speichern</string>
@@ -726,8 +726,8 @@
     <string name="storage_cache_disabled_detail">Der Cache ist deaktiviert und wird automatisch geleert.</string>
     <string name="storage_cache_unlimited_detail">Es gibt keine Größenbeschränkung.</string>
     <string name="storage_canvas_detail">Canvas unterliegt einer Begrenzung der Anzahl der Elemente und nicht der Speicherplatzgröße.</string>
-    <string name="clear_lyrics_cache">Liedtextcache leeren</string>
-    <string name="clear_lyrics_cache_confirm">Möchtest du wirklich den gesamten Liedtext-Cache löschen?</string>
+    <string name="clear_lyrics_cache">Songtextcache leeren</string>
+    <string name="clear_lyrics_cache_confirm">Möchtest du wirklich den gesamten Songtext-Cache löschen?</string>
     <string name="paxsenix_stats">Paxsenix API Statistik</string>
     <string name="uptime">Verfügbarkeit</string>
     <string name="total_requests">Gesamte Anfragen</string>
@@ -736,8 +736,8 @@
     <string name="paxsenix_stats_failed">Laden der API-Statistiken fehlgeschlagen</string>
     <string name="visit_website">Website besuchen</string>
     <string name="recent_requests">Letzte Anfragen</string>
-    <string name="preload_queue_lyrics">Liedtexte in der Warteschlange laden</string>
-    <string name="queue_lyrics_preload_count">Anzahl der Lieder zum Vorausladen</string>
+    <string name="preload_queue_lyrics">Songtexte in der Warteschlange laden</string>
+    <string name="queue_lyrics_preload_count">Anzahl der Songs zum Vorausladen</string>
     <string name="display">Anzeige</string>
     <string name="romanization">Romanisierung</string>
     <string name="hide_video">Verstecke Musikvideos</string>
@@ -750,7 +750,7 @@
     <string name="discord_connection_settings">Verbindung</string>
     <string name="discord_custom_interval_value">Wert</string>
     <string name="discord_custom_interval_unit">Einheit</string>
-    <string name="discord_url_source_song">Lied-URL</string>
+    <string name="discord_url_source_song">Song-URL</string>
     <string name="discord_url_source_artist">Künstler-URL</string>
     <string name="discord_url_source_album">Album-URL</string>
     <string name="discord_url_source_custom">Benutzerdefinierte URL</string>
@@ -777,4 +777,5 @@
     <string name="support_development_donate">Spende, um die Entwicklung zu unterstützen</string>
     <string name="support_development_star">Stern auf GitHub geben</string>
     <string name="later">Später</string>
+    <string name="status_active">AKTIV</string>
 </resources>
