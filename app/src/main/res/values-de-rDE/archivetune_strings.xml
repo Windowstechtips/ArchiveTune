@@ -385,4 +385,5 @@
     <string name="settings_stats_subtitle">Deine beliebtesten Songs, Interpreten und dein Wiedergabeverlauf</string>
     <string name="error_no_song_playing">Aktuell spielt kein Song</string>
     <string name="error_no_similar_songs">Keine ähnlichen Songs gefunden</string>
+    <string name="year_in_music">Ein Jahr in Musik</string>
 </resources>
