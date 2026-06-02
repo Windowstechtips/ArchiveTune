@@ -704,4 +704,15 @@
     <string name="audio_offload_desc">Consenti ai dispositivi supportati di riprodurre l’audio utilizzando la decodifica hardware a basso consumo energetico. Alcune funzionalità di elaborazione audio sono disattivate.</string>
     <string name="pause_on_device_mute">Pausa quando il volume del dispositivo è 0</string>
     <string name="pause_on_device_mute_desc">Metti automaticamente in pausa la musica quando l’audio è disattivato e riprendila quando viene riattivato</string>
+    <string name="build_your_mix_title">Crea il tuo mix</string>
+    <string name="build_your_mix_description">Su quali basi dobbiamo crearti questo mix?</string>
+    <string name="build_your_mix_song_count">Quante canzoni vuoi avere in totale?</string>
+    <string name="build_your_mix_listening_history">Cronologia ascolti</string>
+    <string name="build_your_mix_create">Crea mix</string>
+    <string name="build_your_mix_loading_quote">Creando il tuo mix, richiederà del tempo...</string>
+    <string name="build_your_mix_manual_required">Inserisci un artista o il titolo di una canzone prima.</string>
+    <string name="build_your_mix_failed">Fallito nel creare il tuo mix</string>
+    <string name="widget_pause">Pausa</string>
+    <string name="widget_previous">Precedente</string>
+    <string name="widget_tap_to_open">Tocca per aprire ArchiveTune</string>
 </resources>
