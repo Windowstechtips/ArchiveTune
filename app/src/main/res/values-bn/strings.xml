@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="home">হোম</string>
+    <string name="songs">গানসমূহ</string>
+    <string name="artists">শিল্পীগণ</string>
 </resources>
