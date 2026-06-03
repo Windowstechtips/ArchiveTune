@@ -944,4 +944,5 @@
     <string name="save_current_account">Simpan akun saat ini</string>
     <string name="no_saved_accounts">Belum ada akun yang disimpan</string>
     <string name="remove_account">Hapus akun</string>
+    <string name="player_background_style_v8_v9_desc">Tidak tersedia untuk gaya pemutat V8 dan V9</string>
 </resources>
