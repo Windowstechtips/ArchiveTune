@@ -8,4 +8,18 @@
     <string name="music_recognition_no_match">कोई मेल नहीं मिला</string>
     <string name="music_recognition_signature_failed">हस्ताक्षर उत्पन्न नहीं किया जा सका</string>
     <string name="music_recognition_recognition_failed">पहचान विफल रही</string>
+    <string name="music_recognition_open_shazam">शाज़म खोलें</string>
+    <string name="music_recognition_lyrics_preview">बोलों का पूर्वावलोकन</string>
+    <string name="music_recognition_permission_title">माइक्रोफ़ोन की अनुमति</string>
+    <string name="music_recognition_permission_desc">आस-पास के संगीत को पहचानने के लिए माइक्रोफ़ोन की अनुमति दें।</string>
+    <string name="music_recognition_permission_action">अनुमति दें</string>
+    <string name="music_recognition_error">कुछ गलत हो गया</string>
+    <string name="local_history">स्थानीय</string>
+    <string name="history_local_summary">इस डिवाइस पर चलाया गया</string>
+    <string name="history_remote_summary">YouTube Music से सिंक किया गया</string>
+    <string name="history_local_empty_title">अभी तक कोई स्थानीय इतिहास नहीं है</string>
+    <string name="history_local_empty_desc">इस डिवाइस पर आपके चलाए गए गाने यहां दिखाई देंगे।</string>
+    <string name="history_remote_loading">दूरस्थ इतिहास सिंक हो रही है</string>
+    <string name="history_remote_empty_title">कोई रिमोट इतिहास उपलब्ध नहीं है</string>
+    <string name="history_remote_empty_desc">YouTube Music पर सुनने के बाद आपकी सिंक की गई वॉच हिस्ट्री यहां दिखाई देगी।</string>
 </resources>
